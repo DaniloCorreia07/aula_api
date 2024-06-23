@@ -22,5 +22,5 @@
    //     'status' => 'maintenance'
    // ]);
 
-   echo Response::resposta(200,'API is running!');
+   echo Response::resposta(200,'sucess', $data);
 ?>
